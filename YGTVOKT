@@ -625,19 +625,19 @@ https://stream-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIE" tvg-id="" tvg-name="",FOX Movies
+#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIES" tvg-id="" tvg-name="",FOX Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 http://iptvtree.net:8080/ace2524d/15a571c413/281482
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIE" tvg-id="" tvg-name="",Fox Movies Action
+#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIES" tvg-id="" tvg-name="",Fox Movies Action
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 http://iptvtree.net:8080/ace2524d/15a571c413/157608
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIE" tvg-id="" tvg-name="",Fox Family Movies
+#EXTINF:-1 tvg-logo="" group-title="YG-FILM & MOVIES" tvg-id="" tvg-name="",Fox Family Movies
 http://iptvtree.net:8080/ace2524d/15a571c413/157595
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW" group-title="YG-FILM & MOVIES" tvg-id="" tvg-name="", Star Chinese YG-FILM & MOVIES
