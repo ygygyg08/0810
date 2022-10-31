@@ -981,6 +981,32 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 
 ########################## SPORTS ##########################
 
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title=" YG-SPORTS 1",Champions TV 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title=" YG-SPORTS 1",Champions TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title=" YG-SPORTS 1",Champions TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title=" YG-SPORTS 1",Champions TV 4
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="YG-SPORTS 1",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="YG-SPORTS 1",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="YG-SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="YG-SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="YG-SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
@@ -1006,21 +1032,6 @@ https://dtaarjaj1diy9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" YG-SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title=" YG-SPORTS 1",Champions TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title=" YG-SPORTS 1",Champions TV 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title=" YG-SPORTS 1",Champions TV 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title=" YG-SPORTS 1",Champions TV 4
-#
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title=" YG-SPORTS 1",Champions TV Goal
-#
 
 #EXTINF:-1 tvg-logo="" group-title=" YG-SPORTS 1", Usee Sports 1
 http://180.211.90.134:8000/play/a05l
@@ -3069,8 +3080,6 @@ http://23.237.10.66:16473
 http://23.237.10.66:16492
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="MALAYSIA",Aec
 http://23.237.10.66:16495
-
-
 
 
 
