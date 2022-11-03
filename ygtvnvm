@@ -3101,3 +3101,7 @@ http://23.237.10.66:16492
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="MALAYSIA",Aec
 http://23.237.10.66:16495
 
+
+#EXTINF:-1 group-title="YG-TESTING" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet Southeast Asia
+https://stream-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
