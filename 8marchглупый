@@ -690,10 +690,10 @@ https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
 ########################## SPORTS 1 ##########################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 1
-http://iptvid.my.id/hmm/biawakbinal/pulau999/useesport.m3u8
+##http://iptvid.my.id/hmm/biawakbinal/pulau999/useesport.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 2
-http://iptvid.my.id/hmm/biawakbinal/pulau999/useesports2.m3u8
+##http://iptvid.my.id/hmm/biawakbinal/pulau999/useesports2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
