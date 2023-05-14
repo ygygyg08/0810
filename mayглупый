@@ -1628,7 +1628,7 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 ##http://103.167.167.5:8111/play/a01q/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
