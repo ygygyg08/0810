@@ -394,20 +394,6 @@ https://akm611a-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
 https://akm611a-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg",NHK World Japan
-https://akm611a-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="NEWS", NHK World Japan
-http://210.210.155.35:80/uq2663/h/h23/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
-https://akm611a-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-
 #########################################################
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/ABC_Newslogo.svg/revision/latest/scale-to-width-down/250?cb=20200716221007", ABC NEWS
@@ -583,6 +569,11 @@ https://akm611a-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="MOVIES", tvN
 ####http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+https://akm611a-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -1633,18 +1624,23 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 ##http://103.167.167.5:8111/play/a01q/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
-https://akm611a-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 ##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="ENTERTAINMENT", Kix 
 #http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg",NHK World Japan
+https://akm611a-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+https://akm611a-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
