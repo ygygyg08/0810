@@ -679,7 +679,13 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet Southeast Asia
 ###https://akm611a-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 ###http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/animal-planet.png" group-title="Documentary ",Animal Planet HD
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -691,7 +697,12 @@ https://akm611a-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel Southeast Asia
 ###https://akm611a-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-###http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/discovery.png " group-title="Documentary ",Discovery Channel HD
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Discovery Science (Cbm)
@@ -702,8 +713,8 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Asia
-http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
+###EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Asia
+##http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -832,46 +843,46 @@ https://akm611a-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerc
 #EXTINF:-1 tvg-logo="" group-title=" SPORTS 1",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS 1",Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS 1",Champions TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS 1",Champions TV 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORTS",Champions TV 5
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORTS 1",Champions TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="SPORTS",Champions TV 6
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="SPORTS 1",Champions TV 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://s.id/1d1Gl ",Bein sports 1
+#EXTINF:0 group-title="SPORTS 1" tvg-logo="https://s.id/1d1Gl ",Bein sports 1
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://s.id/1d1HB ",Bein sports 3
+#EXTINF:0 group-title="SPORTS 1" tvg-logo="https://s.id/1d1HB ",Bein sports 3
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://sport.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
