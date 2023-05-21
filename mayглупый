@@ -516,10 +516,10 @@ https://akm611a-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewH
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dreamworks_small1.png" group-title="KIDS",Dreamworks
 https://akm611a-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dreamworks_small1.png" group-title="KIDS",Dreamworks
+##EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dreamworks_small1.png" group-title="KIDS",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dreamworks
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -568,10 +568,10 @@ http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
 https://akm611a-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (Usee)
+##EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 
 
 
@@ -823,15 +823,15 @@ https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
 
 ########################## SPORTS 1 ##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 1
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesport
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesport
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesport
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 2
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 1",Usee Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesports2
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -844,11 +844,11 @@ https://akm611a-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://akm611a-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
+#https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
 
-#EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv 2
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
+##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv 2
+#https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -1807,10 +1807,10 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:0 tvg-id="" tvg-name="" group-title="ENTERTAINMENT" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",Kplus
 #http://rr.dens.tv/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="ENTERTAINMENT",K+
+##EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="ENTERTAINMENT",K+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=kplus
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=kplus
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=kplus
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="ENTERTAINMENT",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1845,10 +1845,10 @@ https://akm611a-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
 https://akm611a-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhgS8Nz.png" group-title="ENTERTAINMENT",Citra Drama
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhgS8Nz.png" group-title="ENTERTAINMENT",Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
 ##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKKTDDNWkcWF4-Eu_npO3umWKFXhu-DdgYQ&usqp=CAU" group-title="ENTERTAINMENT",Citra ENTERTAINMENT
 #http://tvn.x10.mx/1/master-6.m3u8?dl=1
