@@ -11,6 +11,8 @@ https://kusnadipepenk.github.io/campeign/hbo.m3u8
 
 https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 
+https://ygygyg08.github.io/bct/sptv2.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -884,6 +886,9 @@ https://akm611a-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2 FHD
 https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+
+#EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2 yg
+https://ygygyg08.github.io/bct/sptv2.m3u8
 
 ##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
 #https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
