@@ -882,6 +882,9 @@ https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://akm611a-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2 FHD
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+
 ##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
 #https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
 
