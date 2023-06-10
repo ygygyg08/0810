@@ -863,7 +863,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesports2
 #https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
-
+############
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv.png " group-title="SPORTS 1",SPOTV 1
@@ -880,6 +880,7 @@ https://akm611a-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS 1" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2 FHD
 https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+##########
 
 ##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
 #https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
