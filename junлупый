@@ -649,8 +649,8 @@ UNT JLY
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 @UNT JLY
-##EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO 1080p
-#http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197972
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO 1080p
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197972
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
@@ -664,8 +664,8 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
 @UNT JLY
-##EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits 1080p
-#http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/196480
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits 1080p
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/196480
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits 
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
@@ -679,8 +679,8 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
 #https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 @UNT JLY
-##EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax 1080p
-#http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax 1080p
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
@@ -694,8 +694,8 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 @UNT JLY
-##EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family 1080p
-#http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197055
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family 1080p
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/197055
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
@@ -708,8 +708,8 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
-##EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature 1080p
-#http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature 1080p
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
