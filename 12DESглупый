@@ -57,7 +57,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title=“NATIONAL”, Indosiar
 #http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-##EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title=“NATIONAL”, Indosiar 1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title=“NATIONAL”, Indosiar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3MeFJVc
 
@@ -1849,62 +1849,6 @@ http://asia.vthanhtivi.pw/TBS/index.m3u8
 http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
 http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://asia.vthanhtivi.pw/BS11/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://asia.vthanhtivi.pw/AT-X/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN", NHK
-http://203.162.235.41:12091/
-#EXTINF:-1 group-title="JAPAN", NHK World Japan
-http://203.162.235.41:13092/
-#EXTINF:-1 group-title="JAPAN", NHK (no watermark)
-http://203.162.235.41:14093/
-#EXTINF:-1 group-title="JAPAN", Fuji TV
-http://203.162.235.41:15094/
-#EXTINF:-1 group-title="JAPAN", Nippon TV
-http://203.162.235.41:16095/
-#EXTINF:-1 group-title="JAPAN", TV Asahi
-http://203.162.235.41:17097/
-#EXTINF:-1 group-title="JAPAN", TBS
-http://203.162.235.41:18097/
-#EXTINF:-1 group-title="JAPAN", TV Tokyo
-http://203.162.235.41:19098/
-#EXTINF:-1 group-title="JAPAN", NHK BS1
-http://203.162.235.41:20099/
-#EXTINF:-1 group-title="JAPAN", BS Fuji TV
-http://203.162.235.41:22101/
-#EXTINF:-1 group-title="JAPAN", BS TV Tokyo
-http://203.162.235.41:23102/
-#EXTINF:-1 group-title="JAPAN", BS Nippon TV
-http://203.162.235.41:24103/
-#EXTINF:-1 group-title="JAPAN", NHK BS Premium (BSP)
-http://203.162.235.41:25104/
-#EXTINF:-1 group-title="JAPAN", BS-TBS
-http://203.162.235.41:26105/
-#EXTINF:-1 group-title="JAPAN", WOWOW Prime B
-http://203.162.235.41:27106/
-#EXTINF:-1 group-title="JAPAN", Golf Network
-http://203.162.235.41:28107/
-#EXTINF:-1 group-title="JAPAN", BS Asahi
-http://203.162.235.41:29108/
-
-======================================================================================
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://asia.vthanhtivi.pw/NHK_G/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
-http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
-http://asia.vthanhtivi.pw/TBS/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
-http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
-http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
