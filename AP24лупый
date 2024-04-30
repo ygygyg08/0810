@@ -7,7 +7,7 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 
-a
+
 ########################## NATIONAL 1 ##########################
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title=“NATIONAL”,Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -616,11 +616,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index
 
 
 @@@@
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
+https://iptvsystem.my.id/index.mpd?cid=warner&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -632,7 +633,7 @@ https://iptvsystem.my.id/index.mpd?cid=hbo&provider=cubmu&type=dash&token=eyJ0eX
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 https://iptvsystem.my.id/index.mpd?cid=hbosig&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9
 
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbofamily.png",HBO Family
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 https://iptvsystem.my.id/index.mpd?cid=hbofam&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9
@@ -646,6 +647,13 @@ https://iptvsystem.my.id/index.mpd?cid=hbohits&provider=cubmu&type=dash&token=ey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
 https://iptvsystem.my.id/index.mpd?cid=cinemax&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV C
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
