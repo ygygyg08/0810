@@ -1036,23 +1036,26 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #EXTINF:-1 group-title=" SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg", Sportstars
 https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #EXTINF:-1 group-title=" SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png", Sportstars 2
 https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #EXTINF:-1 group-title=" SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", Sportstars 3
 https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title=" SPORTS 1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png", Sportstars 3
+http://liveaneviadev.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 ##EXTINF:-1 group-title="SPORTS 1" tvg-id="" tvg-logo="",spotv
